@@ -4,11 +4,11 @@ plugins {
 }
 
 android {
-    namespace 'com.example.misterstrm'
+    namespace 'com.flavelloni.mistercoiffeur'
     compileSdk 32
 
     defaultConfig {
-        applicationId "com.example.misterstrm"
+        applicationId "com.flavelloni.mistercoiffeur"
         minSdk 21
         targetSdk 32
         versionCode 1

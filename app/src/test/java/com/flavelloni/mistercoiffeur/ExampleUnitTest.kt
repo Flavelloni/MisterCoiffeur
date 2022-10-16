@@ -1,4 +1,4 @@
-package com.example.misterstrm
+package com.flavelloni.mistercoiffeur
 
 import org.junit.Test
 

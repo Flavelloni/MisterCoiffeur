@@ -1,4 +1,4 @@
-package com.example.misterstrm
+package com.flavelloni.mistercoiffeur
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
